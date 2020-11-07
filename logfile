@@ -1,0 +1,2 @@
+2020-10-26 20:47:06.734 EDT [19391] FATAL:  lock file "postmaster.pid" already exists
+2020-10-26 20:47:06.734 EDT [19391] HINT:  Is another postmaster (PID 18820) running in data directory "/Users/bdizzle/Desktop/codebases/mod-3/testgres"?
